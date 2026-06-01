@@ -227,3 +227,5 @@ ipykernel>=6.0.0
 | `superstore_analysis.sql` | Extended SQL script | Any SQL editor |
 | `requirements.txt` | Python dependencies | `pip install -r` |
 | `.gitignore` | Git ignore rules | — |
+
+""IF any error comes in preview of github, then please i request you to download the file project""
